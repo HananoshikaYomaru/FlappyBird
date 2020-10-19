@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{EC71E599-67EF-C920-3419-5AF808972DEA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/SettingMenu.cs">
+    <Files>
+      <File FileName="Assets/scripts/SoundManager.cs" Line="60" Column="24" />
+      <File FileName="Assets/scripts/GameAssets.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/SoundCleaner.cs" Line="9" Column="2" />
+      <File FileName="Assets/scripts/Bird.cs" Line="117" Column="26" />
+      <File FileName="Assets/scripts/GameOverWindow.cs" Line="53" Column="133" />
+      <File FileName="Assets/scripts/SettingMenu.cs" Line="27" Column="2" />
+      <File FileName="Assets/scripts/Level.cs" Line="129" Column="31" NotebookId="1" />
+      <File FileName="Assets/scripts/MainMenu.cs" Line="24" Column="27" NotebookId="1" />
+      <File FileName="Assets/scripts/ButtonSound.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BFA2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="SettingMenu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="011289a5-562a-48cf-943b-9c544f9226cc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

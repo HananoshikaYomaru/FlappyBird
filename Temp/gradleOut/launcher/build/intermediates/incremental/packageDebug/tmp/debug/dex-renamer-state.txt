@@ -1,0 +1,4 @@
+#Mon Oct 19 14:33:28 HKT 2020
+base.0=/Users/Yomaru/Desktop/Unity/BFA2/Temp/gradleOut/launcher/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
